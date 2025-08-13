@@ -1,5 +1,5 @@
 # Projects-by-me
-My personal and University project
+<!-- A simple Ball game -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
