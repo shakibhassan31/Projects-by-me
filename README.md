@@ -13,7 +13,8 @@
       background: #111;
       color: white;
     }
-</body>
+    </style>
+<body>
 
 <p> A simple 3D ball game for my Uni project. Use the arrow keys to move, Spacebar to Jump, Left Ctrl to Duck
 </p>
